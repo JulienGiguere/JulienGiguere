@@ -62,4 +62,4 @@
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 
 ---
-Favorite Code Editor : <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white" alt="Emacs" style="vertical-align: -4px;">
+Favorite Code Editor : <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white" alt="Emacs" style="vertical-align: -1px;">
